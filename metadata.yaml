@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42874'
     url: http://www.gutenberg.org/2009/agents/42874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44688#To-and-Through-Nebraska
 gutenberg_issued: '2014-01-17'
 gutenberg_type: Text
 identifiers:
